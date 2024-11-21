@@ -1,6 +1,6 @@
 # A* Pathfinding Visualization with Chebyshev Distance
 
-![Example Screenshot](colorNodeIMG.png)
+<img src="colorNodeIMG.png" alt="Description" width="350" height="350">
 
 This project is a grid-based pathfinding visualization tool implemented in Python using Pygame. It allows users to interactively place start and end nodes for six different colors and visualize the A* algorithm connecting them using **Chebyshev Distance** as the heuristic.
 
